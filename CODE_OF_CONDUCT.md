@@ -18,7 +18,7 @@ The same rules apply to all members of the community, and all persons who intera
 
 ## If something goes wrong
 
-Message an uninvolved council member privately on [Julia Slack](https://julialang.org/slack/) or contact the [Julia Stewards](https://julialang.org/community/stewards/) directly.  
+Message an uninvolved Steering Committee member privately on [Julia Slack](https://julialang.org/slack/) or contact the [Julia Stewards](https://julialang.org/community/stewards/) directly.  
 Anyone named in a complaint or otherwise conflicted must not handle it or decide its outcome.  
 Your contact helps find an independent handler if needed, without requiring you to approach the person concerned.
 
