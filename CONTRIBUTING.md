@@ -1,20 +1,27 @@
 # Contributing
 
-Questions, documentation, examples, teaching, scientific review, tests, code, and mentoring all help.
+Contributions of all kinds are welcome, including questions, documentation, examples, teaching, scientific review, tests, code, and mentoring.
 You don't need particular qualifications, and one contribution doesn't commit you to more.
 
-Start with the package's contributor guide.
-Small fixes can go straight to a pull request.
-Discuss larger features, dependencies, API changes, and statistical changes first.
-Early drafts and questions are welcome.
+## Making a change
 
-We strive to adhere to the principles laid out in [ColPrac](https://github.com/SciML/ColPrac), with local exceptions, including for solo maintainers.  
-Keep changes focused and explain what you checked.  
-Maintainers can help with tests and documentation.  
+Start with the package's contributor guide. These practices help contributors and maintainers agree on what to do next.
+
+- Open a pull request for small fixes, such as correcting a typo or fixing a broken example.
+- Discuss larger changes first, including new features, dependencies, API changes, and changes to statistical methods.
+- Keep changes focused and explain what you checked, such as the tests you ran or the examples you tried.
+
+Early drafts and questions are welcome. Maintainers can help with tests and documentation.
 Reviewers explain which changes are required and which are suggestions.
 
-Contributions follow the package license.
-Credit includes non-code work, with consent for public naming. Paper authorship is a separate conversation.
+We aim to follow [ColPrac](https://github.com/SciML/ColPrac), with room for local exceptions, including for solo maintainers.
+
+## Licensing and credit
+
+When you contribute, you make your changes available under the license for that part of the repository.
+Some repositories use different licenses for code and documentation. Check which license applies before opening a pull request.
+
+Give people credit for code and non-code work. Ask how they would like to be credited before naming them publicly.
 
 ## Finding help
 
