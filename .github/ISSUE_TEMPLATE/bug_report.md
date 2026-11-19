@@ -1,17 +1,23 @@
 ---
 name: Bug report
-about: Tell us what went wrong so we can help
+about: Report a bug
 title: ''
 labels: ''
 assignees: ''
 ---
 
-## What happened?
+## Expected behavior
 
-Tell us what you expected and what you saw instead.
+<!-- Describe what you expected to happen. -->
 
-## Can we try it ourselves?
+## Actual behavior
 
-Share a small example, the package and Julia versions you used, and any setup details that might help.
+<!-- Describe what happened. Include any error messages. -->
 
-<!-- Having trouble making a small example? Tell us what you’ve tried. Use made-up data if your data is private. -->
+## Steps to reproduce
+
+<!-- Add a minimal example or list the steps. Use sample data if your data is private. -->
+
+## Environment
+
+<!-- List the package version, Julia version, and relevant setup details. -->

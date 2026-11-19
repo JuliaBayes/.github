@@ -1,17 +1,19 @@
 ---
-name: Change proposal
-about: Share an idea for a feature, shared interface, or policy
+name: Proposal
+about: Propose a change to a feature, interface, or policy
 title: '[Proposal] '
 labels: ''
 assignees: ''
 ---
 
-## What would you like to change?
+## Motivation
 
-Tell us what prompted the idea, what options you’ve considered, and who or what it might affect.
+<!-- Describe the problem or goal. -->
 
-## What would it take?
+## Proposed change
 
-Tell us what work you think is needed and where you’d like a hand.
+<!-- Describe the change, alternatives, and work needed. Note where help is needed. -->
 
-<!-- Give anyone affected time to weigh in. Record what we decided and why. -->
+## Impact
+
+<!-- List affected people or packages. Give them time to respond and record the decision. -->
