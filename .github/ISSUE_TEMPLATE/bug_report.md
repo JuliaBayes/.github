@@ -1,17 +1,17 @@
 ---
 name: Bug report
-about: Report a problem or ask for help reproducing it
+about: Tell us what went wrong so we can help
 title: ''
 labels: ''
 assignees: ''
 ---
 
-## Problem
+## What happened?
 
-Tell us what you expected and what happened.
+Tell us what you expected and what you saw instead.
 
-## Reproduction
+## Can we try it ourselves?
 
-Include a small example, package and Julia versions, and relevant environment details.
+Share a small example, the package and Julia versions you used, and any setup details that might help.
 
-<!-- Ask for help if you can't make a small example. Use made-up data if your data is private. -->
+<!-- Having trouble making a small example? Tell us what you’ve tried. Use made-up data if your data is private. -->

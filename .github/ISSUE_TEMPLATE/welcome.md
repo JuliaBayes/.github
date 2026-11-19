@@ -1,10 +1,10 @@
 ---
 name: Contribution help
-about: Find a task or helper
+about: Find a place to start and someone to help
 title: '[Welcome] '
 labels: ''
 assignees: ''
 ---
 
-Tell us what interests you and what you'd like help with.
-Questions, documentation, teaching, scientific review, and code all count.
+Thanks for stopping by! Tell us what interests you and where you’d like a hand.
+We can help you find a place to start, whether you’d like to share an example, improve the docs, or work on some code.
