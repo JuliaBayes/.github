@@ -3,15 +3,15 @@
 JuliaBayes welcomes people across backgrounds, identities, abilities, experience levels, and institutions.  
 This applies in our repositories, events, chat, and related conversations.
 
-Please note that the guidelines laid out here are **in addition** to those laid out in the [Julia community standards](https://julialang.org/community/standards/). Furthermore, note that JuliaBayes is not a standalone entity, and forms part of the wider Julia community.
+JuliaBayes is part of the wider Julia community. These guidelines supplement the [Julia community standards](https://julialang.org/community/standards/).
 
 ## Working together
 
-Treat people with respect.  
-Explain disagreements with reasons and evidence.  
-Personal attacks will not be tolerated.  
-Respect boundaries, accessibility needs, names, pronouns, and requests to stop contact.  
-Give people room to learn and ask questions.
+- Treat people with respect.
+- Explain disagreements with reasons and evidence.
+- Personal attacks will not be tolerated.
+- Respect boundaries, accessibility needs, names, pronouns, and requests to stop contact.
+- Give people room to learn and ask questions.
 
 Harassment, discrimination, threats, stalking, unwanted sexual attention, sharing private information, sustained disruption, and retaliation are unacceptable.  
 The same rules apply to all members of the community, and all persons who interact with the community insofar as possible.
